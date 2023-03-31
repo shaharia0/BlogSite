@@ -1,0 +1,21 @@
+.totalTime{
+  border: 1px solid #e6dede;
+  background-color: #f7efef;
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+.bookmarkList{
+  margin-top: 10px;
+  border: 1px solid #e7e1e1;
+  padding: 5px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+.titleList{
+  border: none;
+  background-color: #f1f0f0;
+  padding: 10px;
+  border-radius: 5px;
+}

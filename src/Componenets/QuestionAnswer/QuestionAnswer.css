@@ -1,0 +1,8 @@
+.questionAnswer{
+  margin-left: 200px;
+  margin-top: 10px;
+}
+.questionAnswer h1{
+  font-weight: bold;
+  font-size: 20px;
+}
